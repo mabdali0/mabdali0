@@ -6,38 +6,52 @@
   
   <h3>Exam :</h3>
   
-  Exam Rank 02
+  Exam Rank 04
   100/100 ✅<br/>
   Exam Rank 03
   100/100 ✅<br/>
-  Exam Rank 04
+  Exam Rank 02
   100/100 ✅<br/>
   
   <h3>Projects :</h3>
+
+  CPP Module 01
+  100/100 ✅<br/>
+  
+  CPP Module 00
+  100/100 ✅<br/>
+
+  cub3d
+  125/100 ✅<br/>
+
+  minishell
+  110/100 ✅<br/>
+
+
   
   Philosophers
-  <img src="https://badge42.vercel.app/api/v2/clikbltib001608ms8wlkfzx8/project/3102266" alt="mabdali's 42 Philosophers Score" />
+  100/100 ✅<br/>
         
   push_swap
-  <img src="https://badge42.vercel.app/api/v2/clikbltib001608ms8wlkfzx8/project/3065052" alt="mabdali's 42 push_swap Score" />
+  84/100 ✅<br/>
         
   so_long
-  <img src="https://badge42.vercel.app/api/v2/clikbltib001608ms8wlkfzx8/project/3040116" alt="mabdali's 42 so_long Score" />
+  123/100 ✅<br/>
         
   minitalk
-  <img src="https://badge42.vercel.app/api/v2/clikbltib001608ms8wlkfzx8/project/3025626" alt="mabdali's 42 minitalk Score" />
+  125/100 ✅<br/>
         
   Born2beroot
-  <img src="https://badge42.vercel.app/api/v2/clikbltib001608ms8wlkfzx8/project/3016137" alt="mabdali's 42 Born2beroot Score" />
+  110/100 ✅<br/>
         
   get_next_line
-  <img src="https://badge42.vercel.app/api/v2/clikbltib001608ms8wlkfzx8/project/3001060" alt="mabdali's 42 get_next_line Score" />
+  125/100 ✅<br/>
         
   ft_printf 
-  <img src="https://badge42.vercel.app/api/v2/clikbltib001608ms8wlkfzx8/project/2993574" alt="mabdali's 42 ft_printf Score" />
+  125/100 ✅<br/>
         
   Libft
-  <img src="https://badge42.vercel.app/api/v2/clikbltib001608ms8wlkfzx8/project/2958611" alt="mabdali's 42 Libft Score" />
+  100/100 ✅<br/>
 
 </html>
 
