@@ -15,42 +15,42 @@
   
   <h3>Projects :</h3>
 
-  CPP Module 01
+  CPP Module 01<br/>
   100/100 ✅<br/>
   
-  CPP Module 00
+  CPP Module 00<br/>
   100/100 ✅<br/>
 
-  cub3d
+  cub3d<br/>
   125/100 ✅<br/>
 
-  minishell
+  minishell<br/>
   110/100 ✅<br/>
 
 
   
-  Philosophers
+  Philosophers<br/>
   100/100 ✅<br/>
         
-  push_swap
+  push_swap<br/>
   84/100 ✅<br/>
         
-  so_long
+  so_long<br/>
   123/100 ✅<br/>
         
-  minitalk
+  minitalk<br/>
   125/100 ✅<br/>
         
-  Born2beroot
+  Born2beroot<br/>
   110/100 ✅<br/>
         
-  get_next_line
+  get_next_line<br/>
   125/100 ✅<br/>
         
-  ft_printf 
+  ft_printf <br/>
   125/100 ✅<br/>
         
-  Libft
+  Libft<br/>
   100/100 ✅<br/>
 
 </html>
