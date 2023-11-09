@@ -4,13 +4,14 @@
 
 <html lang="en">
   
-  <img src="https://badge42.vercel.app/api/v2/clikbltib001608ms8wlkfzx8/stats?cursusId=21&coalitionId=319" alt="mabdali's 42 stats"/>
-  
-  
   <h3>Exam :</h3>
   
   Exam Rank 02
-  <img src="https://badge42.vercel.app/api/v2/clikbltib001608ms8wlkfzx8/project/3039258" alt="mabdali's 42 Exam Rank 02 Score" />
+  100/100 ✅
+  Exam Rank 03
+  100/100 ✅
+  Exam Rank 04
+  100/100 ✅
   
   
   <h3>Projects :</h3>
