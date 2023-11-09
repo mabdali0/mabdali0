@@ -7,12 +7,11 @@
   <h3>Exam :</h3>
   
   Exam Rank 02
-  100/100 ✅
+  100/100 ✅<br/>
   Exam Rank 03
-  100/100 ✅
+  100/100 ✅<br/>
   Exam Rank 04
-  100/100 ✅
-  
+  100/100 ✅<br/>
   
   <h3>Projects :</h3>
   
