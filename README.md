@@ -15,7 +15,7 @@ Looking for an internship...
 
 # 👾 Some of my projects
 ### &#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F; Cube 3D
-<a href="https://github.com/Leizar06001/42_Cube_3D"><img src="https://github.com/mabdali0/Cube3D---Escape-The-Cube/blob/main/cube.gif" width="350"/></a>&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;<a 
+<a href="https://github.com/mabdali0/Cube3D---Escape-The-Cube/"><img src="https://github.com/mabdali0/Cube3D---Escape-The-Cube/blob/main/cube.gif" width="350"/></a>
 
 # 📊 GitHub statistics
 
