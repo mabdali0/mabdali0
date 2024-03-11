@@ -13,6 +13,10 @@ Looking for an internship...
 ### OS
 ![linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=black) 
 
+# 👾 Some of my projects
+### &#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F; Cube 3D
+<a href="https://github.com/Leizar06001/42_Cube_3D"><img src="https://github.com/mabdali0/Cube3D---Escape-The-CubeCcube.gif" width="350"/></a>&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;<a 
+
 # 📊 GitHub statistics
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mabdali0)](https://github.com/anuraghazra/github-readme-stats)
