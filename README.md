@@ -13,7 +13,7 @@ Looking for an internship...
 ### OS
 ![linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=black) 
 
-## 📊 GitHub statistics
+# 📊 GitHub statistics
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mabdali0)](https://github.com/anuraghazra/github-readme-stats)
 ![Mabdali0's github stats](https://github-readme-stats.vercel.app/api?username=mabdali0&show_icons=true)
