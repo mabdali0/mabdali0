@@ -1,7 +1,7 @@
 <h1 align="center">Welcome on my GIT 👋 !</h1>
 
 # 👨‍🎓 42 Cursus
-42 School "Tronc commun" validated
+42 School "Tronc commun" validated<br>
 Looking for an internship...
 # 💻 Tech Stack
 ### Languages
